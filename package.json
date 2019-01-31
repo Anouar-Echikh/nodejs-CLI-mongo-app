@@ -1,0 +1,15 @@
+{
+  "name": "node_cli_app",
+  "version": "1.0.0",
+  "description": "A simple node js CLI app ",
+  "main": "index.js",
+  "repository": "./node_cli_app",
+  "author": "Anouar Echikh-Hassen",
+  "license": "xxx",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.1",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.7"
+  }
+}
